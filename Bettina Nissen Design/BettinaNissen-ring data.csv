@@ -1,0 +1,7 @@
+Design Table for: ring,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ringsize,D1@sketch cone,D2@sketch cone,D3@sketch cone,D1@Revolve cone,D1@Shell cone,D1@Triangle for cutout,D1@Extrude cut triangles,D3@Rotated Cuts triangles,D1@Rotated Cuts triangles,D1@crown tops fillet,D1@crown edge fillet,D1@centre cone,D1@Extrude cut holder,D3@Extrude cut holder,D1@Extrude cut base of holder,D3@Extrude cut base of holder,D1@sketch half sphere,D2@sketch half sphere,D1@bottom spherical,D1@sketch rectangle to rotate,D2@sketch rectangle to rotate,D3@sketch rectangle to rotate,D4@sketch rectangle to rotate,D1@ring,D1@fillet ring,D1@fillet holder edges,D1@fillet between ring and top,D1@fillet bottom edge of cone
+15.5mm,5,4.5,8,360,1,90,20,360,3,2.5,0.5,4.5,4,1,1,1,1.4,3.5,360,1.5,1.5,0.6,7.75,360,0.5,0.3,0.2,1
+16.5mm,5,4.5,8,360,1,90,20,360,3,2.5,0.5,4.5,4,1,1,1,1.4,3.5,360,1.5,1.5,0.6,8.25,360,0.5,0.3,0.2,1
+17.5mm,5,4.5,8,360,1,90,20,360,3,2.5,0.5,4.5,4,2,1,1,1.4,3.5,360,1.5,1.5,0.6,8.75,360,0.5,0.3,0.2,1
+18.5mm,5,4.5,8,360,1,90,20,360,3,2.5,0.5,4.5,4,1,1,1,1.4,3.5,360,1.5,1.5,0.6,9.25,360,0.5,0.3,0.2,1
+thinner,5,4.5,8,360,0.5,90,20,360,3,2.5,0.2,4.5,4,1,1,1,1.4,3.5,360,1.5,1.5,0.6,8.75,360,0.5,0.3,0.2,1

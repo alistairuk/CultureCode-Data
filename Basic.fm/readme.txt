@@ -1,0 +1,1 @@
+The basic.fm radio project API http://basic.airtime.pro/api/live-info/?callback gives schedule and what's playing info. the stream address itself is at http://live.canstream.co.uk:8000/basicfm.mp3.m3u .
