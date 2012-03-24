@@ -1,0 +1,1 @@
+In adition to the datsets the venue has sensors in the steps that are connected to a mac mini running a PD (PureData). This is set up to trigger samples from midi input (steps trigger a midi signal). It is available for hacking at and after the event.

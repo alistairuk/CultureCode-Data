@@ -1,0 +1,2 @@
+
+Fatal error: Allowed memory size of 134217728 bytes exhausted (tried to allocate 24 bytes) in C:\htdocs\phpMyAdmin\libraries\PHPExcel\PHPExcel\Cell.php on line 486

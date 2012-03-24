@@ -1,0 +1,1 @@
+We have the use of the articles at http://www.nebusiness.co.uk/explore/ and http://www.nebusiness.co.uk/article-archive/ but there is no API. There is an RSS feed at http://www.nebusiness.co.uk/rss.xml and Google News may be of help https://www.google.co.uk/search?q=site%3Anebusiness.co.uk+<search_term> .
